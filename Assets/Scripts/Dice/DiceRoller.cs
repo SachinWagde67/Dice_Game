@@ -43,7 +43,9 @@ public class DiceRoller : MonoBehaviour {
 
         int result = GetTopFaceValue();
 
-        Debug.Log("Dice Result: " + result);
+        Debug.Log($"Dice Result: {result}");
+
+        GameEvents.OnDiceRollCompleted?.Invoke(result);
 
         yield return new WaitForSeconds(0.5f);
 
