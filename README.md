@@ -209,3 +209,9 @@ No paid assets were used.
 Only **built‑in Unity tools and assets** were used for UI and effects.
 
 ------------------------------------------------------------------------
+
+## 📝 Screenshots
+
+![Screenshot 1](Assets/Images/1.png)
+![Screenshot 1](Assets/Images/2.png)
+![Screenshot 1](Assets/Images/3.png)
